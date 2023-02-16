@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MandeepJaswal
-- 👀 I’m interested in Web development, Machine Learning
+- 👀 I’m interested in Web development, Machine Learning,Android
 - 🌱 I’m currently learning HTML, CSS, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
