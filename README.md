@@ -4,7 +4,7 @@
 - Node.js | Express.js 
 - RESTful APIs
 - WebSocket / Socket.io (Real-time apps) 
-- JWT (Authentication)
+- JWT (Authentication) 
 - MongoDB, PostgreSQL, MySQL
 🌱 Currently Learning
 - GraphQL and integrating it with Node.js
