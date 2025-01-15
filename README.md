@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MandeepJaswal
 - 👀What I Do
 😍 Backend  
-- Node.js | Express.js 
+- Node.js | Express.js  
 - RESTful APIs  
 - WebSocket / Socket.io (Real-time apps)  
 - JWT (Authentication) 
