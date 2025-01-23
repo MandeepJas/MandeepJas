@@ -9,7 +9,7 @@
 🌱 Currently Learning
 - GraphQL and integrating it with Node.js
 - Kotlin for Android development
-- CI/CD Pipelines and DevOps practices
+- CI/CD Pipelines and DevOps practices 
 <!---
 MandeepJas/MandeepJas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
